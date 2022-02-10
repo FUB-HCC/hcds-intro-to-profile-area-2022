@@ -1,7 +1,7 @@
 # Introduction To Profile Area 2022 - Human-Centered Data Science
 This repository contains all material needed to participate in "Introduction To Profile Area" exercise of the research group [Human-Centered Computing (HCC)][1] at Freie Universität Berlin.
 
-You can find the introduction slides to the exercise inside this repository here **TODO: Add Slides**
+You can find the introduction slides to the exercise inside this repository [here](./intro_slides.pdf).
 
 ## Agenda
 - Introduction: 4:00 PM
