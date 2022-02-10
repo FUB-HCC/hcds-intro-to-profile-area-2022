@@ -1,10 +1,10 @@
-# Introduction to Profile Area 2022 - Human-Centered Data Science
-This repository contains all material needed to participate in "Introduction to Profile Area" exercise of the research group [Human-Centered Computing (HCC)][1] at Freie Universität Berlin.
+# Introduction To Profile Area 2022 - Human-Centered Data Science
+This repository contains all material needed to participate in "Introduction To Profile Area" exercise of the research group [Human-Centered Computing (HCC)][1] at Freie Universität Berlin.
 
 You can find the introduction slides to the exercise inside this repository here **TODO: Add Slides**
 
 ## Agenda
-- Introduction: 4 PM
+- Introduction: 4:00 PM
 - Forming Groups: 4:15 PM
 - Working on Task 1: 4:20 PM
 - Discussion: 5:15 PM
@@ -20,12 +20,12 @@ LIME was introduced as a model-agnostic and local explanation/interpretability m
 1. **First things first:** Get familiar with the [LIME repository](https://github.com/marcotcr/lime) on GitHub. Please read the README: https://github.com/marcotcr/lime.
 2. Get the [tutorial notebook](./LIME_tutorial_notebook.ipynb) running in a collaborative environment. You can use one of the options listed below the task, or one of you shares the screen.
 3. Please step through the notebook and understand what is happening in each line. Please add markdown cells to your notebook to document your understanding of what is happening. You can also write down the question you have in mind, while stepping through the notebook or include links or references you used to get a deeper understanding of the notebook.
-4. Get explanations for three different documents of the given [newsgroup dataset](https://scikit-learn.org/stable/datasets/#the-20-newsgroups-text-dataset) (currently document number 83 is used).
+4. Get explanations for three different documents of the given [newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) (currently document number 83 is used).
 5. **Reflection**: Please answer the following questions for the discussion: 
     1. What did you learn about the model?
     2. How _well_ do you think the classifier works? Why?
     3. How useful is LIME for a non-data-scientist (e.g. non-ML-experts or designer)? Why?
-    4. What **question types** is LIME able to answer? Why?
+    4. What questions is LIME able to answer? Why?
     5. Would you incorporate tools like LIME into your data science practice?
 
 
