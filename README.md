@@ -27,6 +27,7 @@ LIME was introduced as a model-agnostic and local explanation/interpretability m
     3. How useful is LIME for a non-data-scientist (e.g. non-ML-experts or designer)? Why?
     4. What questions is LIME able to answer? Why?
     5. Would you incorporate tools like LIME into your data science practice?
+6. (Optional) Play around with LIME and different datasets or models. Are you able to generate some helpful explanations?
 
 
 ***
