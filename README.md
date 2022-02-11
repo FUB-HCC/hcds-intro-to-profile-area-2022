@@ -4,11 +4,11 @@ This repository contains all material needed to participate in "Introduction To 
 You can find the introduction slides to the exercise inside this repository [here](./intro_slides.pdf).
 
 ## Agenda
-- Introduction: 4:00 PM
-- Forming Groups: 4:15 PM
-- Working on Task 1: 4:20 PM
-- Discussion: 5:15 PM
-- End: 5:30 PM
+- Introduction: 4:15 PM
+- Forming groups: 4:25 PM
+- Working on the task: 4:30 PM
+- Discussion: 5:30 PM
+- End: 5:45 PM
 
 
 ## Task (Explanation method: LIME)
